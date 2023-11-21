@@ -1,3 +1,4 @@
+[![Build Status](https://rhodalynrnoceja.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status%2Frhodanoceja.mslearn-tailspin-spacegame-web?branchName=main)](https://rhodalynrnoceja.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=16&branchName=main)
 
 # Contributing
 
